@@ -1,0 +1,22 @@
+{
+  "pizza": [
+    "pizza1.jpg",
+    "pizza2.jpg",
+    "pizza3.jpg"
+  ],
+  "hamburguer": [
+    "burger1.jpg",
+    "burger2.jpg",
+    "burger3.jpg"
+  ],
+  "sushi": [
+    "sushi1.jpg",
+    "sushi2.jpg",
+    "sushi3.jpg"
+  ],
+  "acai": [
+    "acai1.jpg",
+    "acai2.jpg",
+    "acai3.jpg"
+  ]
+}

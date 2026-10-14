@@ -1,0 +1,21 @@
+style.css – visual totalmente novo /
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 2rem;
+}
+h1 { color: #d35400; margin-bottom: 1rem; }
+.controls { margin-bottom: 1.5rem; }
+button, input {
+  padding: .5rem 1rem;
+  margin: .2rem;
+  border: 2px solid #d35400;
+  border-radius: 4px;
+}
+button { background: #d35400; color: #fff; cursor: pointer; }
+button:hover { background: #e67e22; }
+.gallery img { max-width: 80%; height: auto; border-radius: 8px; }
+.msg { color: #c0392b; font-weight: bold; }
